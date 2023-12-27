@@ -1,1 +1,3 @@
 # Tribute-Page
+
+This project is created with the purpose of practicing my web development skills. I have created this "tribute" page as part of an assignment from Free Code Camp. The web page essentially will give a historical background on the fictional character "Tony Stark". I will use different skills including HTML and CSS to properly list out information while styling it in a reader friendly format.
